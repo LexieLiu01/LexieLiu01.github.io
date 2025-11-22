@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My latest study has been accepted for presentation at SCECR 2025 in Paphos, Cyprus.
+My latest study is accepted for presentation at SCECR 2025 in Paphos, Cyprus.

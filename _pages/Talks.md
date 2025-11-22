@@ -34,6 +34,7 @@ nav_order: 7
 ---
 
 [3] Estimating and Mitigating the Congestion Effect of Curbside Pick-ups and Drop-offs: A Causal Inference Approach.
+
 <u>Xiaohui Liu</u>, Sean Qian, Wei Ma, and Hock-Hai Teo.
 
 - INFORMS Annual Meeting, Online, 2021

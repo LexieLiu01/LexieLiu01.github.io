@@ -19,7 +19,7 @@ nav_order: 6
 
 <u>Xiaohui Liu</u>, Liang Zhang, Yujing Ma, Wei Ma, and Hock-Hai Teo.
 
-Under review at *Manufacturing & Service Operations Management* (**M&SOM**)
+[//]: # (Under review at *Manufacturing & Service Operations Management* &#40;**M&SOM**&#41;)
 
 ---
 
@@ -27,7 +27,7 @@ Under review at *Manufacturing & Service Operations Management* (**M&SOM**)
 
 <u>Xiaohui Liu</u>, Jiamin Yin, Liang Zhang, and Hock-Hai Teo.  
 
-To be submitted to *Management Science* (**MS**)
+[//]: # (To be submitted to *Management Science* &#40;**MS**&#41;)
 
 ---
 

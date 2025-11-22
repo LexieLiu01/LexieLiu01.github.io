@@ -10,13 +10,13 @@ profile:
   align: right
   image: XiaohuiLiu.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>COM2-B1-02,</p>
-    <p>15 Computing Dr, </p>
-    <p>Singapore 117418</p>
+#  more_info: >
+#    <p>COM2-B1-02,</p>
+#    <p>15 Computing Dr, </p>
+#    <p>Singapore 117418</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
