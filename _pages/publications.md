@@ -9,7 +9,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-[//]: # (# Journal Articles)
+[//]: # "# Journal Articles"
+
 <div class="publications">
 {% bibliography --query @article %}
 </div>
@@ -17,7 +18,7 @@ nav_order: 2
 ---
 
 # Book Chapters
+
 <div class="publications">
 {% bibliography --query @incollection %}
 </div>
-

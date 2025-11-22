@@ -2,7 +2,7 @@
 layout: page
 title: Awards
 permalink: /awards/
-#description: I was selected for the department’s competitive <strong>Teaching Fellowship Scheme (S$12,000)</strong>, awarded based on faculty nominations and consistently positive student feedback. 
+#description: I was selected for the department’s competitive <strong>Teaching Fellowship Scheme (S$12,000)</strong>, awarded based on faculty nominations and consistently positive student feedback.
 nav: true
 nav_order: 8
 ---
@@ -24,4 +24,3 @@ nav_order: 8
 - Principal's Scholarship, Beihang University (2018)
 
 - Outstanding Dissertation Award, Zhengzhou University (2017)
-

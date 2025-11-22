@@ -2,7 +2,7 @@
 layout: page
 title: Talks
 permalink: /talks/
-#description: I was selected for the department’s competitive <strong>Teaching Fellowship Scheme (S$12,000)</strong>, awarded based on faculty nominations and consistently positive student feedback. 
+#description: I was selected for the department’s competitive <strong>Teaching Fellowship Scheme (S$12,000)</strong>, awarded based on faculty nominations and consistently positive student feedback.
 nav: true
 nav_order: 7
 ---
@@ -40,4 +40,3 @@ nav_order: 7
 - INFORMS Annual Meeting, Online, 2021
 
 - International Symposium on Transportation Data and Modeling (ISTDM), Online, 2021
-

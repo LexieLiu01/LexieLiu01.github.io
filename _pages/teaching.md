@@ -2,29 +2,30 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-#description: I was selected for the department’s competitive <strong>Teaching Fellowship Scheme (S$12,000)</strong>, awarded based on faculty nominations and consistently positive student feedback. 
+#description: I was selected for the department’s competitive <strong>Teaching Fellowship Scheme (S$12,000)</strong>, awarded based on faculty nominations and consistently positive student feedback.
 nav: true
 nav_order: 6
-show_title: false 
+show_title: false
 hide_title: true
 ---
 
-[//]: # (# 🎓 Teaching Experience  )
-
-[//]: # (I have accumulated over **1,400 hours** of teaching across **11 semesters**, supporting more than **1,200 undergraduate and postgraduate students** at the National University of Singapore.)
+[//]: # "# 🎓 Teaching Experience  "
+[//]: # "I have accumulated over **1,400 hours** of teaching across **11 semesters**, supporting more than **1,200 undergraduate and postgraduate students** at the National University of Singapore."
 
 ## **Postgraduate Courses**
 
 BT5153 — Applied Machine Learning for Business Analytics
-- **Co-Instructor**, *2025*; Teaching Rating: **4.4 / 5.0**  
-- **Co-Instructor**, *2024*; Teaching Rating: **4.5 / 5.0**  
-- Teaching Assistant, *2023 & 2022*  
+
+- **Co-Instructor**, _2025_; Teaching Rating: **4.4 / 5.0**
+- **Co-Instructor**, _2024_; Teaching Rating: **4.5 / 5.0**
+- Teaching Assistant, _2023 & 2022_  
   [Course Website →](https://bt5153msba.github.io/)
 
 ---
 
 FT5009 — Contemporary Topics in Financial Data Analytics
-- Teaching Assistant, *2023*  
+
+- Teaching Assistant, _2023_  
   [Course Website →](https://nusmods.com/courses/FT5009/contemporary-topics-in-financial-data-analytics)
 
 ---
@@ -32,26 +33,30 @@ FT5009 — Contemporary Topics in Financial Data Analytics
 ## **Undergraduate Courses**
 
 IS3107 — Data Engineering
-- **Co-Instructor**, *2024*; Teaching Rating: **4.0 / 5.0**  
-- Teaching Assistant, *2025 & 2023*  
+
+- **Co-Instructor**, _2024_; Teaching Rating: **4.0 / 5.0**
+- Teaching Assistant, _2025 & 2023_  
   [Course Website →](https://nusmods.com/courses/IS3107/data-engineering)
 
 ---
 
 IS1108 — Digital and AI Ethics
-- Teaching Assistant, *2025*  
+
+- Teaching Assistant, _2025_  
   [Course Website →](https://nusmods.com/courses/IS1108/digital-and-ai-ethics)
 
 ---
 
 BT2101 — Econometrics Modeling for Business Analytics
-- Teaching Assistant, *2024*  
+
+- Teaching Assistant, _2024_  
   [Course Website →](https://nusmods.com/courses/BT2101/econometrics-modeling-for-business-analytics)
 
 ---
 
 BT4012 — Fraud Analytics
-- Teaching Assistant, *2023*  
+
+- Teaching Assistant, _2023_  
   [Course Website →](https://nusmods.com/courses/BT4012/fraud-analytics)
 
 ---
