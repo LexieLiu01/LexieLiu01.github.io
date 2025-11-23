@@ -1,7 +1,7 @@
 ---
-layout: Home
-title: Home
-permalink: /about/
+layout: about
+title: about
+permalink: /
 subtitle: IS Ph.D. Candidate, National University of Singapore
 
 #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
