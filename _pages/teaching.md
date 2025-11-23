@@ -12,9 +12,9 @@ hide_title: true
 [//]: # "# 🎓 Teaching Experience  "
 [//]: # "I have accumulated over **1,400 hours** of teaching across **11 semesters**, supporting more than **1,200 undergraduate and postgraduate students** at the National University of Singapore."
 
-## **Postgraduate Courses**
+### Postgraduate Courses
 
-BT5153 — Applied Machine Learning for Business Analytics
+**BT5153 — Applied Machine Learning for Business Analytics**
 
 - **Co-Instructor**, _2025_; Teaching Rating: **4.4 / 5.0**
 - **Co-Instructor**, _2024_; Teaching Rating: **4.5 / 5.0**
@@ -23,38 +23,37 @@ BT5153 — Applied Machine Learning for Business Analytics
 
 ---
 
-FT5009 — Contemporary Topics in Financial Data Analytics
+**FT5009 — Contemporary Topics in Financial Data Analytics**
 
 - Teaching Assistant, _2023_  
   [Course Website →](https://nusmods.com/courses/FT5009/contemporary-topics-in-financial-data-analytics)
 
 ---
 
-## **Undergraduate Courses**
+### Undergraduate Courses
 
-IS3107 — Data Engineering
+**IS3107 — Data Engineering**
 
 - **Co-Instructor**, _2024_; Teaching Rating: **4.0 / 5.0**
 - Teaching Assistant, _2025 & 2023_  
   [Course Website →](https://nusmods.com/courses/IS3107/data-engineering)
 
 ---
-
-IS1108 — Digital and AI Ethics
-
-- Teaching Assistant, _2025_  
-  [Course Website →](https://nusmods.com/courses/IS1108/digital-and-ai-ethics)
-
----
-
-BT2101 — Econometrics Modeling for Business Analytics
+**BT2101 — Econometrics Modeling for Business Analytics**
 
 - Teaching Assistant, _2024_  
   [Course Website →](https://nusmods.com/courses/BT2101/econometrics-modeling-for-business-analytics)
 
 ---
 
-BT4012 — Fraud Analytics
+**IS1108 — Digital and AI Ethics**
+
+- Teaching Assistant, _2025_  
+  [Course Website →](https://nusmods.com/courses/IS1108/digital-and-ai-ethics)
+
+---
+
+**BT4012 — Fraud Analytics**
 
 - Teaching Assistant, _2023_  
   [Course Website →](https://nusmods.com/courses/BT4012/fraud-analytics)

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: IS Ph.D. Candidate, National University of Singapore
 
@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello!
+Hello! Welcome to my personal website.
 
 I am Xiaohui Liu (in Chinese, 刘晓慧), currently a fifth-year Ph.D. candidate in the [Department of Information Systems and Analytics](https://www.comp.nus.edu.sg/disa/), School of Computing, at the [National University of Singapore](https://nus.edu.sg/). I expect to complete my degree by December 2025. My Ph.D. advisor is Provost's Chair Professor [Hock-Hai Teo](https://www.comp.nus.edu.sg/~teohh/). Before joining the Ph.D. program, I worked as a research assistant with Associate Professor [Wei Ma](http://polyu-mobility-ai-lab.com/) in [Transportation Engineering](https://www.polyu.edu.hk/cee/?sc_lang=en) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/en/)). I received my Master’s degree from [Beihang University](https://ev.buaa.edu.cn/) and my Bachelor’s degree from [Zhengzhou University](https://english.zzu.edu.cn/).
 
@@ -46,7 +46,7 @@ I focus on examining how AI algorithms shape human behavior and how they can be 
 - Large Language Models (LLMs) for Business Application
 - Causal Inference and Machine Learning
 - Algorithm Design for Digital Platforms (Ride-sharing, Fintech, Recommendations)
-- AI-Augmented human decision-making
+- AI-Augmented Human Decision-making
 
 [//]: # "Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder."
 [//]: #

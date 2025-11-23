@@ -14,7 +14,7 @@ nav_order: 6
 
 [//]: # "## **Working Papers**"
 
-[1] How Does Dynamic Algorithmic Pricing Affect Tipping Behavior in Ride-Hailing Services? Empirical Evidence from the Uber Platform.
+[1] **How algorithmic pricing aggressivness affect tipping behaviour in ride-hailing services? empirical evidence from Uber.**
 
 <u>Xiaohui Liu</u>, Liang Zhang, Yujing Ma, Wei Ma, and Hock-Hai Teo.
 
@@ -22,21 +22,20 @@ nav_order: 6
 
 ---
 
-[2] Is More Always Better? Evaluating the Augmentation Effect of Additional Algorithms on Investment Decision-Making.
+[2] **Is more always better? evaluating the augmentation effect of additional algorithms on investment decision-making.**
 
 <u>Xiaohui Liu</u>, Jiamin Yin, Liang Zhang, and Hock-Hai Teo.
 
 [//]: # "To be submitted to *Management Science* (**MS**)"
 
 ---
+<br>
 
 # Work-in-progress
 
-<br>
-
 ---
 
-[1] Learning to Learn What Clicks: Optimized Online A/B Testing through LLM-Augmented Meta-Learning.
+[1] **Learning to learn what clicks: optimize online A/B testing through LLM-augmented meta-learning.**
 
 <u>Xiaohui Liu</u>, Liang Zhang, and Hock-Hai Teo.
 
@@ -45,7 +44,7 @@ nav_order: 6
 
 ---
 
-[2] Why It Clicks: Causal Inference Empowering Multi-LLM-Agent A/B Content Testing
+[2] **Why it clicks: causal inference empowering multi-LLM-agent A/B content testing**
 
 <u>Xiaohui Liu</u>, Erdun Gao, Liang Zhang, and Hock-Hai Teo.
 
