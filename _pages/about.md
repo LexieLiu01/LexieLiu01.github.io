@@ -10,8 +10,8 @@ profile:
   align: right
   image: XiaohuiLiu.jpeg
   image_circular: false # crops the image to make it circular
-#  more_info: >
-#    <p>COM2-B1-02,</p>
+  more_info: >
+    <p>Email: xiaohuiliu@u.nus.edu</p>
 #    <p>15 Computing Dr, </p>
 #    <p>Singapore 117418</p>
 
