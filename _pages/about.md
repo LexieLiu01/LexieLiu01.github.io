@@ -12,6 +12,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: xiaohuiliu@u.nus.edu</p>
+#    <p>My CV</p>
 #    <p>15 Computing Dr, </p>
 #    <p>Singapore 117418</p>
 
@@ -31,12 +32,14 @@ latest_posts:
 
 Hello! Welcome to my personal website.
 
-I am Xiaohui Liu (in Chinese, 刘晓慧), currently a fifth-year Ph.D. candidate in the [Department of Information Systems and Analytics](https://www.comp.nus.edu.sg/disa/), School of Computing, at the [National University of Singapore](https://nus.edu.sg/). I expect to complete my PhD in December 2025. My Ph.D. advisor is Provost's Chair Professor [Hock-Hai Teo](https://www.comp.nus.edu.sg/~teohh/). Before joining the Ph.D. program, I worked as a research assistant with Associate Professor [Wei Ma](http://polyu-mobility-ai-lab.com/) in [Transportation Engineering](https://www.polyu.edu.hk/cee/?sc_lang=en) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/en/)). I received my Master’s degree from [Beihang University](https://ev.buaa.edu.cn/) and my Bachelor’s degree from [Zhengzhou University](https://english.zzu.edu.cn/).
+I am Xiaohui Liu (in Chinese, 刘晓慧), currently a fifth-year Ph.D. candidate in the [Department of Information Systems and Analytics](https://www.comp.nus.edu.sg/disa/), School of Computing, at the [National University of Singapore](https://nus.edu.sg/). I expect to complete my PhD in December 2025. My Ph.D. advisor is Provost's Chair Professor [Hock-Hai Teo](https://www.comp.nus.edu.sg/~teohh/). Before joining the Ph.D. program, I worked as a research assistant with Associate Professor [Wei Ma](http://polyu-mobility-ai-lab.com/) in [Transportation Engineering](https://www.polyu.edu.hk/cee/?sc_lang=en) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/en/)). I received my Master’s degree from [Beihang University](https://ev.buaa.edu.cn/) and my Bachelor’s degree from [Zhengzhou University](https://english.zzu.edu.cn/). Please see [my CV](https://www.dropbox.com/scl/fi/0cywzh8wtyhk6a8mzmepn/Xiaohui_Liu_CV.pdf?rlkey=yhicv8j0n75rg01wjl84tj27y&st=o9chq4b1&dl=0) here.
 
 [//]: # "My research examines (1) how AI algorithms influence users’ decision-making and explore (2) how these algorithms can be designed to enhance efficiency, transparency, and social welfare in digital platforms, such as ride-hailing, peer-to-peer lending, crowdsourcing, and recommendation systems. Methodologically, I draw on large language models, causal machine learning, data mining, econometric analysis, and behavioral experiments to inform the design and evaluation of AI algorithms. "
 [//]: #
 
 I focus on examining how AI algorithms shape human behavior and how they can be redesigned to better support human decision-making. My work is grounded in the context of digital platforms, including transportation, FinTech, and recommendation systems. Methodologically, I draw on my interdisciplinary training to combine large language models, causal machine learning, data mining, econometric analysis, and behavioral experiments.
+
+I am on the job market for 2025-2026!
 
 [//]: # "First, I investigate the behavioral consequences of human–AI interaction, specifically examining how individuals respond to, adapt to, or are influenced by algorithmic outputs in real-world decision-making contexts. Second, I focus on designing more advanced and effective algorithmic systems that not only enhance predictive performance but also support and improve the quality of human decisions. "
 [//]: # "My work is grounded in the context of digital platforms, including transportation, FinTech, and recommendation systems, where algorithmic decisions increasingly shape user behavior and generate broader societal implications. Methodologically, I draw on my interdisciplinary training to combine large language models, causal machine learning, data mining, econometric analysis, and behavioral experiments. With a strong empirical foundation and a deep commitment to real-world relevance, I position myself as a multi-method researcher working at the intersection of information systems and algorithm design."

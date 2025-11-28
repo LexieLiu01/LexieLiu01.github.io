@@ -18,7 +18,7 @@ nav_order: 6
 
 <u>Xiaohui Liu</u>, Liang Zhang, Yujing Ma, Wei Ma, and Hock-Hai Teo.
 
-[//]: # "Under review at *Manufacturing & Service Operations Management* (**M&SOM**)"
+Under review at *Manufacturing & Service Operations Management*  (*M&SOM*)
 
 ---
 
@@ -26,7 +26,7 @@ nav_order: 6
 
 <u>Xiaohui Liu</u>, Jiamin Yin, Liang Zhang, and Hock-Hai Teo.
 
-[//]: # "To be submitted to *Management Science* (**MS**)"
+To be submitted to *Management Science*
 
 ---
 <br>
@@ -39,6 +39,8 @@ nav_order: 6
 
 <u>Xiaohui Liu</u>, Liang Zhang, and Hock-Hai Teo.
 
+Target to *Marketing Science*
+
 - _Dataset finalized and model framework completed._
 - _Main experiments finished and sensitivity analysis underway._
 
@@ -47,6 +49,8 @@ nav_order: 6
 [2] **Why it clicks: causal inference empowering multi-LLM-agent A/B content testing**
 
 <u>Xiaohui Liu</u>, Erdun Gao, Liang Zhang, and Hock-Hai Teo.
+
+Target to *Management Science* 
 
 - _Dataset finalized; model framework completed._
 - _Main experiments underway._
