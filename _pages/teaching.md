@@ -18,8 +18,8 @@ hide_title: true
 
 **BT5153 — Applied Machine Learning for Business Analytics**
 
-- **Co-Instructor**, _2025_, Teaching Rating: **4.4 / 5.0**
-- **Co-Instructor**, _2024_, Teaching Rating: **4.5 / 5.0**
+- **Co-Instructor**, _2025_, Teaching Rate: **4.4 / 5.0**
+- **Co-Instructor**, _2024_, Teaching Rate: **4.5 / 5.0**
 - Teaching Assistant, _2023 & 2022_  
   [Course Website →](https://bt5153msba.github.io/)
 
@@ -36,20 +36,22 @@ hide_title: true
 ---
 **IS3107 — Data Engineering**
 
-- **Co-Instructor**, _2024_, Teaching Rating: **4.0 / 5.0**
+- **Co-Instructor**, _2024_, Teaching Rate: **4.0 / 5.0**
 - Teaching Assistant, _2025 & 2023_  
   [Course Website →](https://nusmods.com/courses/IS3107/data-engineering)
+
+
+**IS1108 — Digital and AI Ethics**
+
+- Teaching Assistant, _2025_, Teaching Rate: **4.4 / 5.0**  
+  [Course Website →](https://nusmods.com/courses/IS1108/digital-and-ai-ethics)
+
+
 
 **BT2101 — Econometrics Modeling for Business Analytics**
 
 - Teaching Assistant, _2024_  
   [Course Website →](https://nusmods.com/courses/BT2101/econometrics-modeling-for-business-analytics)
-
-
-**IS1108 — Digital and AI Ethics**
-
-- Teaching Assistant, _2025_  
-  [Course Website →](https://nusmods.com/courses/IS1108/digital-and-ai-ethics)
 
 
 **BT4012 — Fraud Analytics**

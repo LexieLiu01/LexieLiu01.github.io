@@ -26,7 +26,7 @@ Under review at *Manufacturing & Service Operations Management*  (*M&SOM*)
 
 <u>Xiaohui Liu</u>, Jiamin Yin, Liang Zhang, and Hock-Hai Teo.
 
-To be submitted to *Management Science*
+Under review at *Management Science* (*MS*)
 
 ---
 <br>
