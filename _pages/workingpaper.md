@@ -18,7 +18,7 @@ nav_order: 6
 
 <u>Xiaohui Liu</u>, Liang Zhang, Yujing Ma, Wei Ma, and Hock-Hai Teo.
 
-Under review at *Manufacturing & Service Operations Management*  (*M&SOM*)
+Major Revision at *Manufacturing & Service Operations Management*  (*M&SOM*)
 
 ---
 
