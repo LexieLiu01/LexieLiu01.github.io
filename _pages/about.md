@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: IS Ph.D. Candidate, National University of Singapore
+subtitle: PhD in Information Systems, National University of Singapore
 
 #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
