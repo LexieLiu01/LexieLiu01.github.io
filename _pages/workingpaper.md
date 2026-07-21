@@ -14,7 +14,14 @@ nav_order: 6
 
 [//]: # "## **Working Papers**"
 
-[1] **How algorithmic pricing aggressivness affect tipping behaviour in ride-hailing services? empirical evidence from Uber.**
+[1] **From Abduction to Reflection: Harnessing LLM Reasoning to Optimize Online A/B Testing.**
+
+<u>Xiaohui Liu</u>, Liang Zhang, and Hock-Hai Teo.
+
+To be submitted to *Management Science*
+
+
+[2] **How algorithmic pricing aggressiveness affects tipping behaviour in ride-hailing services? Empirical evidence from Uber.**
 
 <u>Xiaohui Liu</u>, Liang Zhang, Yujing Ma, Wei Ma, and Hock-Hai Teo.
 
@@ -22,11 +29,11 @@ Major Revision at *Manufacturing & Service Operations Management*  (*M&SOM*)
 
 ---
 
-[2] **Is more always better? evaluating the augmentation effect of additional algorithms on investment decision-making.**
+[3] **Is more always better? Evaluating the augmentation effect of additional algorithms on investment decision-making.**
 
 <u>Xiaohui Liu</u>, Jiamin Yin, Liang Zhang, and Hock-Hai Teo.
 
-Under review at *Management Science* (*MS*)
+To be submitted to *Information Systems Research* (*ISR*)
 
 ---
 <br>
@@ -35,18 +42,7 @@ Under review at *Management Science* (*MS*)
 
 ---
 
-[1] **Learning to learn what clicks: optimize online A/B testing through LLM-augmented meta-learning.**
-
-<u>Xiaohui Liu</u>, Liang Zhang, and Hock-Hai Teo.
-
-Target to *Marketing Science*
-
-- _Dataset finalized and model framework completed._
-- _Main experiments finished and sensitivity analysis underway._
-
----
-
-[2] **Why it clicks: causal inference empowering multi-LLM-agent A/B content testing**
+[1] **Why it clicks: causal inference empowering multi-LLM-agent A/B content testing**
 
 <u>Xiaohui Liu</u>, Erdun Gao, Liang Zhang, and Hock-Hai Teo.
 
