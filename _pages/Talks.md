@@ -17,7 +17,7 @@ nav_order: 7
 
 ---
 
-[2] **How algorithmic pricing aggressivness affect tipping behaviour in ride-hailing services? empirical evidence from Uber**
+[2] **How algorithmic pricing aggressiveness affects tipping behaviour in ride-hailing services? Empirical evidence from Uber**
 
 <u>Xiaohui Liu</u>, Liang Zhang, Yujing Ma, Wei Ma, and Hock-Hai Teo.
 
@@ -33,7 +33,7 @@ nav_order: 7
 
 ---
 
-[3] **Is more always better? evaluating the augmentation effect of additional algorithms on investment decision-making.**
+[3] **Is more always better? Evaluating the augmentation effect of additional algorithms on investment decision-making.**
 
 <u>Xiaohui Liu</u>, Jiamin Yin, Liang Zhang, and Hock-Hai Teo.
 
@@ -43,7 +43,7 @@ nav_order: 7
 
 ---
 
-[4] **Estimating and mitigating the congestion effect of curbside pick-ups and drop-offs: a causal inference approach.**
+[4] **Estimating and mitigating the congestion effect of curbside pick-ups and drop-offs: A causal inference approach.**
 
 <u>Xiaohui Liu</u>, Sean Qian, Wei Ma, and Hock-Hai Teo.
 
