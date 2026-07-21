@@ -20,6 +20,7 @@ nav_order: 6
 
 To be submitted to *Management Science*
 
+---
 
 [2] **How algorithmic pricing aggressiveness affects tipping behaviour in ride-hailing services? Empirical evidence from Uber.**
 
