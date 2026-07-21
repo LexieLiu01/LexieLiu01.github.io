@@ -37,7 +37,7 @@ hide_title: true
 **IS3107 — Data Engineering**
 
 - **Co-Instructor**, _2024_, Teaching Rate: **4.0 / 5.0**
-- Teaching Assistant, _2025 & 2023_  
+- Teaching Assistant, _2026 & 2025 & 2023_  
   [Course Website →](https://nusmods.com/courses/IS3107/data-engineering)
 
 
