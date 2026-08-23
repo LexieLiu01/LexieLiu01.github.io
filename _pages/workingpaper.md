@@ -45,7 +45,7 @@ To be submitted to *Information Systems Research* (*ISR*)
 
 [1] **Why it clicks: causal inference empowering multi-LLM-agent A/B content testing**
 
-<u>Xiaohui Liu</u>, Erdun Gao, Liang Zhang, and Hock-Hai Teo.
+<u>Xiaohui Liu</u>, Erdun Gao, and Liang Zhang.
 
 Target to *Management Science* 
 
