@@ -39,7 +39,7 @@ I am Xiaohui Liu (in Chinese, 刘晓慧), currently a Research Fellow at the [In
 
 I focus on examining how AI algorithms shape human behavior and how they can be redesigned to better support human decision-making. My work is grounded in the context of digital platforms, including ride-sharing, FinTech, and recommendation systems. Methodologically, I draw on my interdisciplinary training to combine large language models, causal machine learning, data mining, econometric analysis, and behavioral experiments.
 
-I am on the job market for 2025-2026!
+I am on the job market for 2026-2027.
 
 [//]: # "First, I investigate the behavioral consequences of human–AI interaction, specifically examining how individuals respond to, adapt to, or are influenced by algorithmic outputs in real-world decision-making contexts. Second, I focus on designing more advanced and effective algorithmic systems that not only enhance predictive performance but also support and improve the quality of human decisions. "
 [//]: # "My work is grounded in the context of digital platforms, including transportation, FinTech, and recommendation systems, where algorithmic decisions increasingly shape user behavior and generate broader societal implications. Methodologically, I draw on my interdisciplinary training to combine large language models, causal machine learning, data mining, econometric analysis, and behavioral experiments. With a strong empirical foundation and a deep commitment to real-world relevance, I position myself as a multi-method researcher working at the intersection of information systems and algorithm design."
