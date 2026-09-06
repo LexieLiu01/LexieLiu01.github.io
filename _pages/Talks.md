@@ -7,6 +7,18 @@ nav: true
 nav_order: 7
 ---
 
+**Invited Talks**
+
+- \textit{Hong Kong University of Science and Technology (Guangzhou), China, 2025}
+  
+- \textit{The Renmin University of China, China, 2026}
+  
+- \textit{Tianjin University, China, 2026}
+  
+- \textit{Shanghai University of Finance and Economics, China, 2026}
+
+**Conferences**
+
 [1] **From Abduction to Reflection: Harnessing LLM Reasoning for Online A/B Testing**
 
 <u>Xiaohui Liu</u>, Liang Zhang, and Hock-Hai Teo.
