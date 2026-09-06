@@ -17,6 +17,8 @@ nav_order: 7
   
 - \textit{Shanghai University of Finance and Economics, China, 2026}
 
+---
+
 **Conferences**
 
 [1] **From Abduction to Reflection: Harnessing LLM Reasoning for Online A/B Testing**
