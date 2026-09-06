@@ -9,13 +9,13 @@ nav_order: 7
 
 **Invited Talks**
 
-- \textit{Hong Kong University of Science and Technology (Guangzhou), China, 2025}
+- *Hong Kong University of Science and Technology (Guangzhou), China, 2025*
   
-- \textit{The Renmin University of China, China, 2026}
+- *The Renmin University of China, China, 2026*
   
-- \textit{Tianjin University, China, 2026}
+- *Tianjin University, China, 2026*
   
-- \textit{Shanghai University of Finance and Economics, China, 2026}
+- *Shanghai University of Finance and Economics, China, 2026*
 
 ---
 
