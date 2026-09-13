@@ -37,9 +37,7 @@ I received my Ph.D. in May 2026 from the [Department of Information Systems and 
 [//]: # "My research examines (1) how AI algorithms influence users’ decision-making and explore (2) how these algorithms can be designed to enhance efficiency, transparency, and social welfare in digital platforms, such as ride-hailing, peer-to-peer lending, crowdsourcing, and recommendation systems. Methodologically, I draw on large language models, causal machine learning, data mining, econometric analysis, and behavioral experiments to inform the design and evaluation of AI algorithms. "
 [//]: #
 
-My research examines <u> how AI algorithms reshape human decision-making</u> and <u>how they can be redesigned to better support it</u>.
-
-My research examines [(1) how AI algorithms reshape human decision-making] and [(2) how they can be redesigned to better support it]. I study these questions in the context of digital platforms, including ride-sharing, FinTech, and recommender systems. Methodologically, I draw on my interdisciplinary training to combine large language models, causal machine learning, data mining, econometric analysis, and behavioral experiments.
+My research examines **how AI algorithms reshape human decision-making** and **how they can be redesigned to better support it**. I study these questions in the context of digital platforms, including ride-sharing, FinTech, and recommender systems. Methodologically, I draw on my interdisciplinary training to combine large language models, causal machine learning, data mining, econometric analysis, and behavioral experiments.
 
 I am on the job market for 2026-2027.
 
