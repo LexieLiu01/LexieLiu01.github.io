@@ -30,15 +30,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! Welcome to my personal website.
-
 I am Xiaohui Liu (in Chinese, 刘晓慧), currently a Research Fellow in the [Department of Economics](https://fass.nus.edu.sg/ecs/) at the [National University of Singapore](https://nus.edu.sg/), working with Provost's Chair Professor [Jungpil Hahn](https://www.garbcan.com/team/jungpil-hahn/) at the [Department of Information Systems and Analytics](https://www.comp.nus.edu.sg/disa/). Prior to this, I was a Research Fellow at the [Institute of Operations Research and Analytics (IORA)](https://iora.nus.edu.sg/) at NUS. 
 
 I received my Ph.D. in May 2026 from the [Department of Information Systems and Analytics](https://www.comp.nus.edu.sg/disa/), School of Computing, at NUS. My Ph.D. advisor is Provost's Chair Professor [Hock-Hai Teo](https://www.comp.nus.edu.sg/~teohh/). Before joining the Ph.D. program, I worked as a Research Assistant with Associate Professor [Wei Ma](http://polyu-mobility-ai-lab.com/) in [Transportation Engineering](https://www.polyu.edu.hk/cee/?sc_lang=en) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/en/)). I received my Master’s degree from [Beihang University](https://ev.buaa.edu.cn/) and my Bachelor’s degree from [Zhengzhou University](https://english.zzu.edu.cn/). Please see [my CV](https://www.dropbox.com/scl/fi/gmm853cz6r8i3eau6ikmy/Xiaohui_Liu_CV_Sep2026.pdf?rlkey=531x1b3mb8bzxuglf2s1uv1sf&dl=0) here.
 
 [//]: # "My research examines (1) how AI algorithms influence users’ decision-making and explore (2) how these algorithms can be designed to enhance efficiency, transparency, and social welfare in digital platforms, such as ride-hailing, peer-to-peer lending, crowdsourcing, and recommendation systems. Methodologically, I draw on large language models, causal machine learning, data mining, econometric analysis, and behavioral experiments to inform the design and evaluation of AI algorithms. "
 [//]: #
-My research focuses on examining how AI algorithms shape human decision-making and how they can be redesigned to better support human decision-making. My works are grounded in the context of digital platforms, including ride-sharing, FinTech, and recommendation systems. Methodologically, I draw on my interdisciplinary training to combine large language models, causal machine learning, data mining, econometric analysis, and behavioral experiments.
+
+My research examines [(1) how AI algorithms reshape human decision-making] and [(2) how they can be redesigned to better support it]. I study these questions in the context of digital platforms, including ride-sharing, FinTech, and recommender systems. Methodologically, I draw on my interdisciplinary training to combine large language models, causal machine learning, data mining, econometric analysis, and behavioral experiments.
 
 I am on the job market for 2026-2027.
 
@@ -49,7 +48,7 @@ I am on the job market for 2026-2027.
 
 - Large Language Models (LLMs) for Business Applications
 - Causal Inference and Machine Learning
-- Algorithm Design for Digital Platforms (Ride-sharing, Fintech, Recommendations)
+- Algorithm Design for Digital Platforms (Ride-sharing, Fintech, Recommender Systems)
 - AI/LLM-Augmented Human Decision-making
 
 [//]: # "Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder."
