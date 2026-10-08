@@ -51,3 +51,18 @@ Target to *Management Science*
 
 - _Dataset finalized; model framework completed._
 - _Main experiments underway._
+
+
+[2] **The social welfare implications of algorithmic pricing disclosure: empirical evidence from Uber**
+
+Xiangru Yin, <u>Xiaohui Liu</u><sup>*</sup>, and Liang Zhang.
+
+- _Dataset finalized; model specification completed._
+- _Main experiments underway._
+
+
+[3] **BundleThinker: an agentic framework for adaptive information acquisition in bundle purchase intention prediction**
+
+<u>Xiaohui Liu</u><sup>*</sup>.
+
+  
